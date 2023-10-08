@@ -241,8 +241,8 @@ body {
     position: absolute;
     width: 20%;
     height: 350px;
-    left: 60%;
-    top: 8%;
+    left: 65%;
+    top: 30%;
     z-index: 9999;
 }
 
@@ -251,14 +251,15 @@ body {
     width: 20%;
     height: 350px;
     left: 20%;
-    top: 15%;
+    top: 25%;
 }
 
 .galeri3 {
     position: absolute;
     width: 30%;
+    top: 5%;
     height: 250px;
-    left: 16%;
+    left: 15%;
 }
 
 .galeri4 {
@@ -268,6 +269,14 @@ body {
     left: 36%;
     top: 35%;
     z-index: 999;
+}
+
+.galeri5 {
+    position: absolute;
+    width: 30%;
+    z-index: 9999;
+    top: 10%;
+    left: 60%;
 }
 
 .galeri6 {
